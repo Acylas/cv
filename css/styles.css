@@ -26,6 +26,14 @@ h3 {
   color: #00ADB5;
   font-weight: normal;
 }
+
+hr {
+  background-color: none;
+  border-color: #222831;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 5%
+}
 p {
   line-height: 2;
 }
@@ -92,10 +100,10 @@ p {
   border-radius: 50%;
 }
 .formation{
-  margin: 75px auto;
+  margin: 100px auto;
 }
 .centre-d-interet{
-  margin: 75px auto;
+  margin: 100px auto;
 }
 .nom {
   margin-bottom: 0
