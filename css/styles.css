@@ -27,13 +27,6 @@ h3 {
   font-weight: normal;
 }
 
-hr {
-  background-color: none;
-  border-color: #222831;
-  border-style: dotted none none;
-  border-width: 8px;
-  width: 5%
-}
 p {
   line-height: 2;
 }
